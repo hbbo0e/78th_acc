@@ -46,7 +46,7 @@ npm run dev
 	- **Redux-Saga**를 활용하여 비동기 작업 및 부수 효과 처리
 
 2. API 통신 및 데이터 바인딩
-	- Redux-Saga와 Axios를 사용해해 백엔드 API와 통신하여 데이터를 가져옴
+	- Redux-Saga와 Axios를 사용해 백엔드 API와 통신하여 데이터를 가져옴
 	- React의 컴포넌트 시스템과 Redux의 상태 관리를 활용하여 UI에 데이터 바인딩
 
 3. 출력 기능 구현
