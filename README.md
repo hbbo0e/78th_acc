@@ -1,8 +1,10 @@
 # 프로젝트 정보
 
+
 ## 회계 시스템 운영 서비스 구현
 > 개발 기간 : 2024.03 ~ 2024.05 <br/>
 > 개발 인원 : FE, BE 총 2명
+<br/>
 
 ## 시작 가이드
 
@@ -28,7 +30,6 @@ npm run dev
 <img src="https://img.shields.io/badge/reduxsaga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white"> 
 
 
-
 ### Config
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> 
 
@@ -36,6 +37,7 @@ npm run dev
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
 
+<br/>
 
 ## 공통 상세 업무
 
@@ -59,12 +61,14 @@ npm run dev
    - ORACLE 데이터베이스와 연동하여 데이터 조회, 처리 및 관리 기능 구현
    - 회계 기수 데이터 처리 등 특정 비즈니스 도메인에 특화된 로직 개발
   
+<br/>
 
 ## 화면 구성 및 API 
 
+<br/>
 
 |메인 페이지|
-|------|
+|:----:|
 | ![image](https://github.com/user-attachments/assets/902e33db-d7a8-499c-b136-414d710bdfc2) |
 |전표/장부관리 - 일반 전표 페이지|
 | ![image](https://github.com/user-attachments/assets/14d1d456-35ca-410a-86c1-ddbebc5d999f) |
