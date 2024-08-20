@@ -37,13 +37,7 @@ npm run dev
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
 
 
-## 기능 요구사항
-
-## DB ERD
-
 
 ## 화면 구성 / API 주소
 
-## 아키텍쳐
 
-프로젝트의 아키텍쳐와 디렉토리 구조에 대해 작성, 프론트랑 백이 어떻게 소통하는지에 대한 그림을 그려서 넣어두기, 디렉토리 구조는 트리를 사용해서 나타낼 수 있다.
